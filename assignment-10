@@ -54,4 +54,6 @@ def display(x) :
 
             print("")
 
+display(sudoku)
+
 
